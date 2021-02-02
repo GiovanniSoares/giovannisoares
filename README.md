@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images.jfif" >
+  <img src="banner.jpg" >
 </p>
 
 # Giovanni Soares
