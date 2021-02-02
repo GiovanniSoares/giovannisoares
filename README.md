@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images.jfif" >
+</p>
+
 # Giovanni Soares
 <sub>*Técnico de Análise e Indicadores* at Seguros Unimed</sub>
 
