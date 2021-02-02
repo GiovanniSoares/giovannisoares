@@ -10,10 +10,10 @@ Estudante de Engenharia de Produção, entusiasta da ciência de dados, venho tr
 **Background in:** Programação SAS, Python, SQL and QlikSense
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/giovannisoaresr)
+* [LinkedIn](https://www.linkedin.com/in/giovannisoaresr/)
 
 ## Cursos:
-
+* **Python Primeiros Passos:** https://bit.ly/3j6UMk4
 
 ## Projetos:
 
