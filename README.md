@@ -7,7 +7,7 @@
 
 Estudante de Engenharia de Produção, entusiasta da ciência de dados, venho trilhando um caminho de estudos híbrido entre negócios e tecnologia. Cognição em análise e modelagem de dados visando a tomada de decisão e exploração de oportunidades para melhoria contínua.
 
-**Background in:** Programação SAS, Python, SQL and QlikSense
+**Conhecimentos em:** Programação SAS, Python, SQL and QlikSense
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/giovannisoaresr/)
